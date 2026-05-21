@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **shivprajapati268@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** to build me communication skills
+- 🔭 **I’m currently working on:** to build my communication skills 😊
 - 🌱 **I’m currently learning:** Linux , Docker
 - 💬 **Ask me about:** Collaboration, any Support
 - 📫 **How to Contact me:** Enter your email here
