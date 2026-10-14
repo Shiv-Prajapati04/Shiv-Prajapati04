@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shiv Prajapati
-**A passionate Cloud Engineer || DevOps Engineer**
+**A passionate Data Scientist || cloud engineer**
 
 Email Me 👉 ✉️ **shivprajapati268@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
