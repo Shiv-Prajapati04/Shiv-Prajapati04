@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Shiv Prajapati
-**A passionate Data Scientist || cloud engineer**
+**A passionate Data Scientist || Data Anlytics **
 
 Email Me 👉 ✉️ **shivprajapati268@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** to build my communication skills 😊
-- 🌱 **I’m currently learning:** Linux , Docker
+- 🌱 **I’m currently learning:** DSA, Data Analytics
 - 💬 **Ask me about:** Collaboration, any Support
 - 📫 **How to Contact me:** Enter your email here
 - 😄 **Call Me:** Shiv
